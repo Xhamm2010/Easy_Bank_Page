@@ -54,7 +54,7 @@ I wish i could find project that will help me foucus mainly on nodejs, express, 
 
 ## Author
 
-- Website - [Ezekiel U](https://www.your-site.com)
+- Website - [Ezekiel Udoh](https://xhamm2010.github.io/Easy_Bank_Page/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [](https://www.twitter.com/)
 
